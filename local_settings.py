@@ -18,3 +18,4 @@ DATABASES = {
         'HOST': 'localhost'
     }
 }
+print(1)
